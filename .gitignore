@@ -1,0 +1,30 @@
+# Flutter build files
+build/
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.idea/
+android/.gradle/
+ios/Pods/
+ios/.symlinks/
+linux/flutter/
+macos/Flutter/
+windows/flutter/
+
+# Firebase config (generated)
+firebase_options.dart
+
+# Secrets and keys
+*.keystore
+*.jks
+.env
+
+# VSCode and Xcode settings
+.vscode/
+*.xcworkspace/
+xcuserdata/
+DerivedData/
+
+# Others
+pubspec.lock

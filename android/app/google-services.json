@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "893999289528",
+    "project_id": "stracker-5e69a",
+    "storage_bucket": "stracker-5e69a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:893999289528:android:6416b1464eeea15b0d104d",
+        "android_client_info": {
+          "package_name": "com.company.stracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBF1V4MhKaBqqLbtYY3e9ITZDZg46tkgsY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:893999289528:android:d9bd147135ca4f950d104d",
+        "android_client_info": {
+          "package_name": "com.example.stracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBF1V4MhKaBqqLbtYY3e9ITZDZg46tkgsY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
