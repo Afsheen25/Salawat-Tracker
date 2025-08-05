@@ -41,4 +41,6 @@ Secure login to sync your progress across devices.
 ---
 
 ## 📸 Screenshots
-
+![Screenshot](screenshot/screenshot1.png)
+![Screenshot](screenshot/screenshot2.png)
+![Screenshot](screenshot/screenshot3.png)
